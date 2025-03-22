@@ -1,64 +1,113 @@
-# Hi, I'm [Your Name] 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Suhas!;Web+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+### 🌟 About Me
 
-I'm a passionate full-stack developer with a keen interest in creating innovative solutions. My journey in tech has been driven by a desire to solve real-world problems through code. I thrive on learning new technologies and collaborating on exciting projects.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| **Frontend** | **Backend** | **Database** | **DevOps** | **Others** |
-|--------------|-------------|--------------|------------|------------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge) |
-
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p>Enthusiastic about the endless possibilities at the intersection of technology and creativity, I am honing my skills in web development as a student at the Cambridge Institute of Technology, Bangalore—a known hub for nurturing tomorrow’s tech leaders.</p>
 </div>
 
 ---
 
-## 🌟 Featured Projects
+### 🛠️ Technical Skills
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Project 1 Name](https://github.com/your-username/project1)** | A brief description of the project, highlighting its key features and impact. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **[Project 2 Name](https://github.com/your-username/project2)** | Another project description, focusing on its unique aspects and technologies used. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **[Project 3 Name](https://github.com/your-username/project3)** | Description of a third project, emphasizing its purpose and the challenges overcome. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
+| **Languages** | **Frontend** | **Backend** | **Databases** | **Tools** |
+|---------------|--------------|-------------|---------------|-----------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) | ![Full Stack](https://img.shields.io/badge/-Full_Stack-000000?logo=fullstack&logoColor=white&style=for-the-badge) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 💪 Key Strengths
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="background-color: #e6f3ff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px;">
+    <h3>Problem-Solving</h3>
+    <p>Turning complex problems into simple, elegant solutions.</p>
+  </div>
+  <div style="background-color: #e6f3ff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px;">
+    <h3>Team Leadership</h3>
+    <p>Adapting and thriving in collaborative environments.</p>
+  </div>
+  <div style="background-color: #e6f3ff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px;">
+    <h3>Continuous Learning</h3>
+    <p>Pursuing new knowledge and opportunities in tech.</p>
+  </div>
+</div>
+
+---
+
+### 🚀 Recent Learning
+
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <ul>
+    <li>Full Stack Development</li>
+    <li>Git and GitHub</li>
+    <li>Power BI</li>
+    <li>Solving LeetCode Problems</li>
+  </ul>
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px;">
+    <h3>Image Processing Web App</h3>
+    <p>Web-based image manipulation tool</p>
+    <p>Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)</p>
+  </div>
+
+  <div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px;">
+    <h3>Inclusive AI Hackathon</h3>
+    <p>AI solution for accessibility</p>
+    <p>Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)</p>
+  </div>
+
+  <div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px;">
+    <h3>Constro Tech Platform</h3>
+    <p>Full-stack construction management system</p>
+    <p>Tech Stack: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)</p>
+  </div>
+
+</div>
+
+<p align="center">Explore more projects in my <a href="https://github.com/your-username?tab=repositories">GitHub repository</a>.</p>
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=dark)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-friendly-dark)
 
 </div>
 
 ---
 
-## 🌱 What I'm Currently Learning
+### 🌱 Experience
 
-- **Advanced React Patterns**: Deepening my understanding of React's ecosystem and best practices.
-- **Serverless Architecture**: Exploring AWS Lambda and other serverless technologies for scalable applications.
-- **Machine Learning**: Studying basic ML concepts to integrate AI into my projects.
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <ul>
+    <li>Virtual Internship at Samsung Prism</li>
+    <li>Web Development at Code Alpha</li>
+  </ul>
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+### 📫 Let's Connect!
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">
 
